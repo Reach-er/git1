@@ -1,2 +1,2 @@
 # git1
-the first git repository made
+This is the first git repository made by reacher
